@@ -230,8 +230,8 @@ Please make sure that your computer has these installed before continuing to the
 <br/>
 
 <p align="center">
- <img src="./info/ui/staff-lists.png" alt="Staff Management UI"></a>
-<i>Staff Management UI</i>
+ <img src="./info/ui/.png" alt="Staff Management UI"></a>
+<i>Staff Management UI  staff-lists</i>
 </p>
 
 <br/>
