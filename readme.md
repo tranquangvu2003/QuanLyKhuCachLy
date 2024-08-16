@@ -176,7 +176,7 @@ Please make sure that your computer has these installed before continuing to the
 <br/>
 
 <p align="center">
- <img src="./info/ui/person-list.png" alt="Person Management UI"></a>
+ <img src="./info/ui/person-lists.png" alt="Person Management UI"></a>
 <i>Person Management UI</i>
 </p>
 
